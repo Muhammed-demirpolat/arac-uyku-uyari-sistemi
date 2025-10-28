@@ -15,15 +15,17 @@ Kamera üzerinden gözlerin açık/kapalı durumunu analiz eder ve sürücü uzu
   - Sesli alarm (winsound)
 - Yanlış pozitifleri azaltmak için esnek parametre ayarları
 
----
 
 > Gözler uzun süre kapalı kaldığında sistem uyarı verir ve alarm çalar 🔊
-gözler açıkken
+  gözler açıkken
 ![example](screenshots/Ekran görüntüsü-1)
 
-gözler kapalıyken
+  gözler kapalıyken
 ![example](screenshots/Ekran görüntüsü-2)
  
+---
+
+
 
 
 ---
