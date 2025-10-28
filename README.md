@@ -24,8 +24,8 @@ Kamera üzerinden gözlerin açık/kapalı durumunu analiz eder ve sürücü uzu
 ---
 
 ## ⚙️ Kurulum
-
+python 3.10.x sürümleri de çalışır 
 ### 1️⃣ Gerekli Kütüphaneler
 ```bash
 pip install opencv-python mediapipe
-3.10.x sürümleri de çalışır 
+
