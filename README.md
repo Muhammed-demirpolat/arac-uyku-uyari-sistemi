@@ -18,10 +18,12 @@ Kamera üzerinden gözlerin açık/kapalı durumunu analiz eder ve sürücü uzu
 
 > Gözler uzun süre kapalı kaldığında sistem uyarı verir ve alarm çalar 🔊
   gözler açıkken
-![example](screenshots/Ekran görüntüsü-1)
+screenshots/Ekran görüntüsü-1 
 
-  gözler kapalıyken
-![example](screenshots/Ekran görüntüsü-2)
+
+
+gözler kapalıyken
+screenshots/Ekran görüntüsü-2
  
 ---
 
